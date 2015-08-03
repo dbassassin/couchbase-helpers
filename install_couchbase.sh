@@ -9,6 +9,3 @@ ufw allow 4369
 ufw allow 8091:8092/tcp
 ufw allow 21100:21299/tcp
 
-firefox localhost:8091 &
-
-
